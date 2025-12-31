@@ -1,16 +1,20 @@
 ## Hi there 👋
+I’m a Software Engineering student at Jimma University and a web developer from Ethiopia 🇪🇹. 
+I also work as a graphic designer and video editor, and I enjoy building and creating digital content.
 
-<!--
-**dinkritgitup/dinkritgitup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I’m working on
+    * Web development projects
+    * Graphic design and video editing work
+    * Learning full-stack development and AI
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+   * Web: HTML, CSS, Bootstrap, JavaScript, React, APIs, Laravel
+   * Programming: Java, C++, Python, PHP
+   * Creative: Photoshop, Video Editing Tools
+   * Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+   * GitHub: https://github.com/dinkritgitup/dinkritgitup/
+   * LinkedIn: https://www.linkedin.com/in/etsubdink-tesfaye-2471112b8/
+
+
